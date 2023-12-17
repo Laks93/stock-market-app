@@ -1,0 +1,4 @@
+public token
+pk_dda19f510a194bb38af41a35dc10ed23
+secret key
+sk_7b1c2640085f4cb3b26347d74dac7ab0
